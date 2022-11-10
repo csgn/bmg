@@ -1,0 +1,19 @@
+*, ::after, ::before {
+  box-sizing: border-box !important;
+}
+
+* {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+}
