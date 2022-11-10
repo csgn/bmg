@@ -26,7 +26,7 @@ def index():
   return 'VM APP TEST'
   
 if __name__ == '__main__':
-  # the host cannot be connect to the vm if the host and port are not specified.
+  # if the host and port are not specified, the host can't connect to the VM
   app.run(host='0.0.0.0', debug=True, port=5000)
 ```
 
