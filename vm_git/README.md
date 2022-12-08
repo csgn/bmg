@@ -4,8 +4,7 @@
 ![vm_03](./docs/3.jpg)
 ![vm_04](./docs/4.jpg)
 ![vm_05](./docs/5.jpg)
-![vm_06](./docs/6.jpg)
-![vm_07](./docs/7.jpg)
+
 
 ![vm_08](./docs/8.jpg)
 ![vm_09](./docs/9.jpg)
