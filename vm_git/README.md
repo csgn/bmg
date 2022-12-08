@@ -6,3 +6,9 @@
 ![vm_05](./docs/5.jpg)
 ![vm_06](./docs/6.jpg)
 ![vm_07](./docs/7.jpg)
+
+![vm_08](./docs/8.jpg)
+![vm_09](./docs/9.jpg)
+![vm_010](./docs/10.jpg)
+![vm_011](./docs/11.jpg)
+![vm_012](./docs/12.jpg)
